@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFsg7KUcWeY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nixa\\Documents\\Moj GameEngine\\Flappy Birds\\Flappy Birds\\Flappy Birds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nixa\\.nuget\\packages\\raylib-cs\\8.0.0\\raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
